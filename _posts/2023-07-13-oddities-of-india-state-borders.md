@@ -2,8 +2,8 @@
 layout: post
 title:  "The oddities of India's state borders"
 date:   2023-07-13
-categories: geopolitics
-tags: geopolitics india
+categories: trivia
+tags: india trivia
 ---
 
 <figure style="width:50%; float:right">
